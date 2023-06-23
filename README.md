@@ -1,4 +1,4 @@
-### Olá 👋 Eu sou Rômulo!
+### Olá, eu sou Rômulo! 👋🏼
 
 - 🔭 Atualmente sou estudante de Ciência da Computação
 - 🌱 Estou aprendendo React
