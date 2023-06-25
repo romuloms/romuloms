@@ -1,7 +1,7 @@
 ### Olá, eu sou Rômulo! 👋🏼
 
 - 🔭 Atualmente sou estudante de Ciência da Computação
-- 🌱 Estou aprendendo React
+- 📝 Estou aprendendo React em casa e outras linguagens e paradigmas na universidade
 - 📫 Meu e-mail: romulomsantana@hotmail.com
 
 <br>
