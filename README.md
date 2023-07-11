@@ -1,8 +1,16 @@
+🇧🇷pt-br
 ### Olá, eu sou Rômulo! 👋🏼
 
 - 🔭 Atualmente sou estudante de Ciência da Computação
 - 📝 Estou aprendendo React em casa e outras linguagens e paradigmas na universidade
 - 📫 Meu e-mail: romulomsantana@hotmail.com
+
+🇺🇸en-us
+### Hello, I'm Rômulo! 👋🏼
+
+- 🔭 I'm currently a Computer Science student
+- 📝 I'm learning React by myself and other languages and programming paradigms at the University
+- 📫 My e-mail: romulomsantana@hotmail.com
 
 <br>
 
