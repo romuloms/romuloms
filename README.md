@@ -4,6 +4,7 @@
 - 🔭 Atualmente sou estudante de Ciência da Computação
 - 📝 Estou aprendendo React em casa e outras linguagens e paradigmas na universidade
 - 📫 Meu e-mail: romulomsantana@hotmail.com
+<br>
 
 🇺🇸en-us
 ### Hello, I'm Rômulo! 👋🏼
