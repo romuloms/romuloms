@@ -16,7 +16,7 @@
 <br>
 
 [![Romulo's GitHub stats](https://github-readme-stats.vercel.app/api?username=romuloms&theme=dracula&rank_icon=github&line_height=20&show_icons=true)](https://github.com/romuloms/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romuloms&show_icons=true&theme=dracula&card_width=300&langs_count=6&layout=compact)](https://github.com/romuloms/github-readme-stats)
   
 <div style="display: inline_block"><br>
   <img align="center" alt="js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
