@@ -2,7 +2,7 @@
 ### Olá, eu sou Rômulo! 👋🏼
 
 - 🔭 Atualmente sou estudante de Ciência da Computação
-- 📝 Estou aprendendo React em casa e outras linguagens e paradigmas na universidade
+- 📝 Estou aprendendo sobre LLMs e várias inteligências artificiais no trabalho, além de linguagens e paradigmas na universidade
 - 📫 Meu e-mail: romulomsantana@hotmail.com
 <br>
 
@@ -10,7 +10,7 @@
 ### Hello, I'm Rômulo! 👋🏼
 
 - 🔭 I'm currently a Computer Science student
-- 📝 I'm learning React by myself and other languages and programming paradigms at the University
+- 📝 I'm learning about LLM's and plenty artificial intelligences at work, aside from programming languages and paradigms at the University
 - 📫 My e-mail: romulomsantana@hotmail.com
 
 <br>
