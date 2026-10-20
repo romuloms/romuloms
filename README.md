@@ -1,28 +1,20 @@
-🇧🇷pt-br
-### Olá, eu sou Rômulo! 👋🏼
+🇧🇷
+### Olá, eu sou o Rômulo! 👋
 
-- 🔭 Atualmente sou estudante de Ciência da Computação
-- 📝 Estou aprendendo sobre LLMs e inteligências artificiais generativas no trabalho, além de linguagens e paradigmas na universidade
-- 📫 Meu e-mail: romulomsantana@hotmail.com
-<br>
+- ⚙️ Desenvolvedor Backend focado em **IA Generativa**, microsserviços e sistemas distribuídos
+- 🛠️ No dia a dia: **Python (FastAPI)**, **TypeScript (NestJS)**, pipelines de **RAG** e integração de LLMs em produção
+- 🎓 Ciência da Computação @ UFS
+- 💬 Vamos conversar? Me encontre no [LinkedIn](https://linkedin.com/in/romulomsantana/)
 
-🇺🇸en-us
-### Hello, I'm Rômulo! 👋🏼
+---
+🇬🇧
+### Hi, I'm Rômulo! 👋
 
-- 🔭 I'm currently a Computer Science student
-- 📝 I'm learning about LLM's and generative artificial intelligences at work, aside from programming languages and paradigms at the University
-- 📫 My e-mail: romulomsantana@hotmail.com
+- ⚙️ Backend Developer focused on **Generative AI**, microservices, and distributed systems
+- 🛠️ Daily stack: **Python (FastAPI)**, **TypeScript (NestJS)**, **RAG** pipelines, and production LLMs
+- 🎓 Computer Science @ UFS
+- 💬 Let's connect: reach me on [LinkedIn](https://linkedin.com/in/romulomsantana/)
 
-<br>
-<div style="display: inline_block"><br>
-  <img align="center" alt="js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="node-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="swift" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="c" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-</div>
 
 <div style="display: inline_block"> <br>
   <a target="_blank" href="https://www.linkedin.com/in/romulomsantana/" rel="noopener"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
